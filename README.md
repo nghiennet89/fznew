@@ -16,7 +16,7 @@
 <br>
 
 <p align="center">
-  <img align="center" src="https://cdn.vuetifyjs.com/images/themes/zero/logo.svg" width="96">
+  <img align="center" src="/img/logo.376fe171.svg" width="96">
 </p>
 
 <br>
