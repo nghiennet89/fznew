@@ -22,7 +22,7 @@
 <br>
 <br>
 
-**Zero** — is a carefully crafted multi-purpose, responsive, and gorgeous theme that showcases a clean interface for a sharp user experience. Built with Vue CLI, it comes with all of the tools that you need to start developing your application *right now.*  **Zero** has professional, pixel perfect, and clean modern layouts with over *50* custom components and *8* pre-made views that compliment any use-case. xxx
+**Zero** — is a carefully crafted multi-purpose, responsive, and gorgeous theme that showcases a clean interface for a sharp user experience. Built with Vue CLI, it comes with all of the tools that you need to start developing your application *right now.*  **Zero** has professional, pixel perfect, and clean modern layouts with over *50* custom components and *8* pre-made views that compliment any use-case.
 
 **Vuetify** is the number one component library for Vue and has been in active development since 2016. The goal of the project is to provide users with everything that is needed to build rich and engaging web applications using the [Material Design specification](https://material.io/guidelines/). It accomplishes that with a consistent update cycle, Long-term Support (LTS) for previous versions, responsive community engagement, a vast ecosystem of resources and a dedication to quality components.
 
